@@ -64,7 +64,7 @@ function AuthContent({ classes }) {
 								</Grid>
 								<Grid item>
 									<Button variant="contained" color="primary" className={classes.addUser}>
-										Add user
+										Add user!!!
 									</Button>
 									<Tooltip title="Reload">
 										<IconButton>
